@@ -1,7 +1,9 @@
 /*
 Name: Urzalla Razmowar
-Assignments: SDC330 WEEK 2 
-Date: 04-25-2026
+Assignments: Week 3 Project 
+Date: 04-26-2026
+Purpose: This class manages a collection of contacts by storing them
+in a list, allowing contacts to be added, and displaying all contacts using polymorphism.
 */
 
 import java.util.ArrayList;
